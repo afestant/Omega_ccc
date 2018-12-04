@@ -3348,5 +3348,4 @@ R5Detector* AliAnalysisTaskSEOmegacccToOmega3Pi::CreateDetector(){
     return det;
 
 
-//rescale second param by facto3 --> eta+-2
 }
